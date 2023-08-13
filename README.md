@@ -29,16 +29,10 @@ The Face Mask Detection Using CNN Project is an AI-based system that detects whe
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN.git
-```
-
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Dataset
