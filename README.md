@@ -11,7 +11,6 @@
 - [Model Training](#model-training)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -47,25 +46,18 @@ pip install -r requirements.txt
 The training and validation dataset used for this project is available at [Dataset Link](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/tree/main/dataset). It consists of images of people with varying mask-wearing scenarios.
 
 ## Model Training
-
+![image](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/assets/84679973/4d96141b-9664-4020-8747-bd77a18d6661)
 Details about the model architecture, training process, and data preprocessing can be found in [model_training.md](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/blob/main/2.0%20training%20the%20CNN.ipynb).
 
 ## Results
 
-Our trained model achieves an accuracy of over 95% on the test set. Sample detection results are shown below:
-
-![Results](images/results.png)
+Our trained model achieves an accuracy of over 98.89% on the test set. Sample detection results are shown below:
+![result](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/assets/84679973/d6a871f3-330c-41ed-8ad4-f099efc74085)
 
 ## Contributing
 
 We welcome contributions from the community! If you find a bug or have an enhancement in mind, please create an issue in the repository. If you'd like to contribute code, fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-**Note:** This README is a template intended to provide a starting point for your Face Mask Detection Project's documentation. Be sure to customize it according to your project's specifics.
 
 *Disclaimer: This project's detection capabilities are not guaranteed to be 100% accurate and should not be solely relied upon for critical decision-making.*
