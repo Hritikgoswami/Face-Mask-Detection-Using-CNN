@@ -1,5 +1,5 @@
 # Face-Mask-Detection-Using-CNN
-![inq5erdiagram](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/blob/main/download.png)
+![image](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/assets/84679973/f1384509-a36f-4f99-aead-efa2106b9c5c)
 
 ## Table of Contents
 
@@ -42,8 +42,9 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
+![image](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/assets/84679973/b314be51-38fc-4160-83a2-ea0dbb442948)
 
-The training and validation dataset used for this project is available at [Dataset Link](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/tree/main/dataset). It consists of images of people with varying mask-wearing scenarios.
+The training and validation dataset used for this project is available at [Dataset Link](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/tree/main/dataset) was contributed by [Prajna Bhandary](https://www.linkedin.com/in/prajna-bhandary-0b03a416a/). It consists of images of people with varying mask-wearing scenarios.
 
 ## Model Training
 ![image](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/assets/84679973/4d96141b-9664-4020-8747-bd77a18d6661)
