@@ -48,7 +48,7 @@ The training and validation dataset used for this project is available at [Datas
 
 ## Model Training
 
-Details about the model architecture, training process, and data preprocessing can be found in [model_training.md](docs/model_training.md).
+Details about the model architecture, training process, and data preprocessing can be found in [model_training.md](https://github.com/Hritikgoswami/Face-Mask-Detection-Using-CNN/blob/main/2.0%20training%20the%20CNN.ipynb).
 
 ## Results
 
